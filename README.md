@@ -11,3 +11,4 @@ Soothing Color Scheme: The app features a calming background with a gradient fro
 Technologies Used
 Flutter: For building the mobile application.
 Dart: For the programming logic and UI components.
+
